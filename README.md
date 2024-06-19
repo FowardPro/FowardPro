@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FowardPro, You can call me FowardTeck
-- 👀 I’m interested in team work
+- 👀 I’m interested in team work, I am ready to learn more to gain experience.
 - 🌱 I’m currently studying computer science
 - 💞️ I’m looking to collaborate on creating web applications,Andriod applictations and Desktop Applications.
 - 📫 How to reach me text me on whatsApp 0640693714
