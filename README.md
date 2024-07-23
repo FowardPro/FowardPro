@@ -14,6 +14,10 @@
 <img align= "left" alt="Java" width="50px" style="padding-right:10px;" align= "left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg" />
 <img align= "left" alt="Java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />    
 <br>
+- 👀 I’m interested in team work, I am ready to learn more to gain experience.
+- 🌱 I’m currently studying computer science
+- 💞️ I’m looking to collaborate on creating web applications,Andriod applications and Desktop Applications.
+- 📫 How to reach me text me on whatsApp 0640693714
 <br>
 <hr>
 Feel free to connect with me! I'm always open to collaboration and new opportunities.
