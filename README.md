@@ -20,6 +20,7 @@
 <img align= "left" alt="Java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />    
 <br>
 <br>
+(https://github-readme-stats.vercel.app/api?username=KISMETtakk&show_icons=true&theme=radical)](https://github.com/FowardPro)
 <!---
 FowardPro/FowardPro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
