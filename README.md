@@ -24,8 +24,9 @@
 Feel free to connect with me! I'm always open to collaboration and new opportunities.
 
 ## GitHub Stats
-(https://github-readme-stats.vercel.app/api?username=FowardPro&show_icons=true&theme=radical)](https://github.com/FowardPro)
-(https://github-readme-stats.vercel.app/api/top-langs/?username=FowardPro&layout=compact&theme=radical)](https://github.com/FowardPro)
+<img src="https://github-readme-stats.vercel.app/api?username=FowardPro&show_icons=true&theme=radical" alt="FowardPro's GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FowardPro&layout=compact&theme=radical" alt="FowardPro's Top Languages">
+        
 <!---
 FowardPro/FowardPro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
