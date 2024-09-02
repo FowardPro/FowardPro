@@ -23,10 +23,10 @@
    
 <br>
 <HR>
-- 👀 I’m interested in team work, I am ready to learn more to gain experience.
-- 🌱 I’m currently studying computer science
-- 💞️ I’m looking to collaborate on creating web applications,Andriod applications and Desktop Applications.
-- 📫 How to reach me: [WhatsApp](tel:+0640693714).
+<p>- 👀 I’m interested in team work, I am ready to learn more to gain experience.</p>
+<p>- 🌱 I’m currently studying computer science</p>
+<p>- 💞️ I’m looking to collaborate on creating web applications,Andriod applications and Desktop Applications.</p>
+<p>- 📫 How to reach me: [WhatsApp](tel:+0640693714).</p>
 <br>
 <hr>
 Feel free to connect with me! I'm always open to collaboration and new opportunities.
