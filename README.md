@@ -1,7 +1,6 @@
 # SOFTWARE DEVELOPER
 
-
-## 🧰 Language and Tools
+## 🧰 Languages and Tools
 
 <p align="left">
   <img alt="Java" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
@@ -25,17 +24,22 @@
    
 <br>
 
-<HR>
-<p>- 👀 I’m interested in team work, I am ready to learn more to gain experience.</p>
-<p>- 🌱 I’m currently studying computer science</p>
-<p>- 💞️ I’m looking to collaborate on creating web applications,Andriod applications and Desktop Applications.</p>
-<p>- 📫 How to reach me: [WhatsApp](tel:+0640693714).</p>
-<br>
-<hr>
+---
+
+- 👀 I’m interested in teamwork and am ready to learn more to gain experience.
+- 🌱 I’m currently studying computer science.
+- 💞️ I’m looking to collaborate on creating web, Android, and desktop applications.
+- 📫 How to reach me: [WhatsApp](tel:+0640693714).
+
+---
+
 Feel free to connect with me! I'm always open to collaboration and new opportunities.
+
 ## Certifications
-![AWS](aws-academy-graduate-aws-academy-cloud-foundations.png)
+![AWS Academy Cloud Foundations](aws-academy-graduate-aws-academy-cloud-foundations.png)
+
 ## GitHub Stats
+
 <img src="https://github-readme-stats.vercel.app/api?username=FowardPro&show_icons=true&theme=radical" alt="FowardPro's GitHub Stats">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FowardPro&layout=compact&theme=radical" alt="FowardPro's Top Languages">
         
