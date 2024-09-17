@@ -36,7 +36,11 @@
 Feel free to connect with me! I'm always open to collaboration and new opportunities.
 
 ## Certifications
-![AWS Academy Cloud Foundations](aws-academy-graduate-aws-academy-cloud-foundations.png)
+
+<p align="left">
+  <img src="aws-academy-graduate-aws-academy-cloud-foundations.png" alt="AWS Academy Cloud Foundations Badge" width="300px"/>
+  <img src="certificate.png" alt="AWS Academy Certificate" width="300px"/>
+</p>
 
 ## GitHub Stats
 
