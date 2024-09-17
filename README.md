@@ -24,8 +24,7 @@
 </p>
    
 <br>
-## Certifications
-![AWS](aws-academy-graduate-aws-academy-cloud-foundations.png)
+
 <HR>
 <p>- 👀 I’m interested in team work, I am ready to learn more to gain experience.</p>
 <p>- 🌱 I’m currently studying computer science</p>
@@ -34,7 +33,8 @@
 <br>
 <hr>
 Feel free to connect with me! I'm always open to collaboration and new opportunities.
-
+## Certifications
+![AWS](aws-academy-graduate-aws-academy-cloud-foundations.png)
 ## GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=FowardPro&show_icons=true&theme=radical" alt="FowardPro's GitHub Stats">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FowardPro&layout=compact&theme=radical" alt="FowardPro's Top Languages">
