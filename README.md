@@ -25,7 +25,7 @@
    
 <br>
 ## Certifications
-![AWS Academy Cloud Foundations](aws-academy-graduate-aws-academy-cloud-foundations.png)
+![AWS Academy Cloud Foundations](https:/aws-academy-graduate-aws-academy-cloud-foundations.png)
 
 <HR>
 <p>- 👀 I’m interested in team work, I am ready to learn more to gain experience.</p>
